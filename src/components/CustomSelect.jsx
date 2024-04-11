@@ -37,7 +37,7 @@ const SelectOptions = styled.ul`
   max-height: ${(props) => (props.show ? "none" : "0")};
   padding: 0;
   border-radius: 8px;
-  background-color: #cfcfcf;
+  background-color: #e6e6e6;
 `;
 
 const Option = styled.li`
@@ -45,7 +45,7 @@ const Option = styled.li`
   padding: 6px 8px;
   transition: background-color 0.2s ease-in;
   &:hover {
-    background-color: #a9a9a9;
+    background-color: #d3d3d3;
   }
 `;
 

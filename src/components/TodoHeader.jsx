@@ -2,8 +2,9 @@ import { styled } from "styled-components";
 import CustomSelect from "./CustomSelect";
 
 const StyledHeader = styled.header`
+width: ;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 `;
 
 const Button = styled.button`
